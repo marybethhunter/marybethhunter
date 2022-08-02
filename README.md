@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Mary Beth (she/her) 🪴🧘🏻‍♀️☕️
+---
+
+#### 💻 I’m currently working as an Associate Developer for GS&F in Nashville. I primarily work with React, Typescript, Wordpress, graphQL, and Javascript.
+#### 📫 Contact:
+- [Email me!](mailto:marybhunter1@gmail.com)
+- [Connect on LinkedIn!](https://www.linkedin.com/in/marybhunter1/)
+- [Check out my website for more!](https://marybeth-hunter.com)
 
 <!--
 **marybethhunter/marybethhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
