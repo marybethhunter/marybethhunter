@@ -6,10 +6,6 @@ I’m a recent Nashville Software School grad (shout out cohort E16) currently w
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,figma,firebase,git,graphql,nextjs,react,mysql,styledcomponents,ts,wordpress&theme=dark&perline=8)](https://skillicons.dev)
 
-<br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marybethhunter)](https://git.io/streak-stats)
-
 ### 📫 Contact:
 * [Email me!](mailto:marybhunter1@gmail.com)
 * [Connect on LinkedIn!](https://www.linkedin.com/in/marybhunter1/)
