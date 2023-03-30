@@ -1,10 +1,10 @@
 <h1>Hi, I'm Mary Beth (she/her) 🪴🧘🏻‍♀️☕️</h1>
 
-I’m a recent Nashville Software School grad (shout out cohort E16) currently working as an Associate Developer for GS&F in Nashville. I've always been drawn to tech and spent many a year on freecodecamp trying to learn HTML. I took the NSS plunge in July of 2020 and get to do this for a living now. The dream :) Personally, I am a yoga teacher, avid reader, coffee drinker, and plant collector. I also enjoy being outdoors, seeing live music, and spending time with my partner and son.
+I’m a recent Nashville Software School grad (shout out cohort E16) currently working as an Interactive Developer for GS&F in Nashville. I've always been drawn to tech and spent many a year on freecodecamp trying to learn HTML. I took the NSS plunge in July of 2020 and get to do this for a living now. The dream :) Outside of tech, I am a yoga teacher, avid reader, coffee drinker, and plant collector. I also enjoy being outdoors, seeing live music, and spending time with my partner and son.
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,figma,firebase,git,graphql,nextjs,react,mysql,styledcomponents,ts,wordpress&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,figma,firebase,git,graphql,nextjs,react,styledcomponents,ts,wordpress,emotion&theme=dark&perline=8)](https://skillicons.dev)
 
 ### 📫 Contact:
 * [Email me!](mailto:marybhunter1@gmail.com)
