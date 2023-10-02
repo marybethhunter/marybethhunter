@@ -6,7 +6,7 @@ Before joining the team at Auth0, I was primarily a front-end developer at GS&F,
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,figma,firebase,git,graphql,nextjs,react,styledcomponents,ts,wordpress,emotion&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,figma,heroku,mongodb,graphql,nextjs,react,express,ts,swift,emotion&theme=dark&perline=8)](https://skillicons.dev)
 
 ### 📫 Contact:
 * [Email me!](mailto:marybhunter1@gmail.com)
